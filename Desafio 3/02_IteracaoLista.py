@@ -2,3 +2,7 @@
 
 lista = [1,77,87,-5, 10]
 
+print('Maior:', max(lista))
+print('Menor:', min(lista))
+print('Soma:', sum(lista))
+print('Média:', sum(lista)/len(lista))
