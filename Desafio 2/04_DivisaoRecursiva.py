@@ -3,3 +3,6 @@
 
 # div(7,2)
 # Esperado: 3
+
+def div(m, n):
+    return m // n
