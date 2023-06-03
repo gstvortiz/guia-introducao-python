@@ -1,5 +1,6 @@
 import numpy as np
 
+
 #1- Crie uma matriz 1D com números de 0 a 9
 matriz = np.arange(9)
 
